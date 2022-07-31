@@ -23,6 +23,10 @@ import { NewExperienciaComponent } from './components/experiencia/new-experienci
 import { EditExperienciaComponent } from './components/experiencia/edit-experiencia.component';
 import { NewEducacionComponent } from './components/educacion/new-educacion.component';
 import { EditEducacionComponent } from './components/educacion/edit-educacion.component';
+import { NewProyectosComponent } from './components/proyecto/new-proyectos.component';
+import { EditProyectosComponent } from './components/proyecto/edit-proyectos.component';
+import { NewSkillComponent } from './components/hys/new-skill.component';
+import { EditSkillsComponent } from './components/hys/edit-skills.component';
 
 
 
@@ -46,6 +50,10 @@ import { EditEducacionComponent } from './components/educacion/edit-educacion.co
     EditExperienciaComponent,
     NewEducacionComponent,
     EditEducacionComponent,
+    NewProyectosComponent,
+    EditProyectosComponent,
+    NewSkillComponent,
+    EditSkillsComponent,
   ],
   imports: [
     BrowserModule,
